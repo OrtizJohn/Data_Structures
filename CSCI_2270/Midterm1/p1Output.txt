@@ -1,0 +1,17 @@
+
+D:\CU School\Spring 2019\CSCI 2270\Midterm1\actual>p1
+Test case 1:
+Expected outcome: -2
+-9 -2 4 -4
+Even Sum: -2
+
+Test case 2:
+Expected outcome: 68
+15 12 19 22 12 19 22
+Even Sum: 68
+
+Test case 3:
+Expected outcome: 0
+Even Sum: 0
+
+D:\CU School\Spring 2019\CSCI 2270\Midterm1\actual>

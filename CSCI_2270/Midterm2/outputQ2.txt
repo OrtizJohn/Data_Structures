@@ -1,0 +1,10 @@
+Test case 1:
+Array unsorted:
+[ 9.1 13 10 14 15.1 12.2 11.5 8.6 ]
+Array sorted:
+[ 8.6 9.1 10 11.5 12.2 13 14 15.1 ]
+Test case 2:
+Array unsorted:
+[ 5.1 ]
+Array sorted:
+[ 5.1]

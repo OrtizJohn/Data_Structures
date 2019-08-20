@@ -1,0 +1,19 @@
+D:\CU School\Spring 2019\CSCI 2270\Midterm1\actual>p2
+Test case 1:
+-9 -2 4 -4
+Even LinkedList:-2 4 -4
+
+Odd LinkedList:-9
+
+Test case 2:
+Expected outcome: 68
+15 12 19 22 12 19 22
+Even LinkedList:12 22 22 12
+
+Odd LinkedList:15 19 19
+
+Test case 3:
+Expected outcome: List empty
+List is empty, can't split...
+
+D:\CU School\Spring 2019\CSCI 2270\Midterm1\actual>

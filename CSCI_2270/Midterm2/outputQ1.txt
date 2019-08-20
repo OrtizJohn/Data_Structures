@@ -1,0 +1,31 @@
+case1
+Creating tree
+New tree created with 10
+2 has been added
+1 has been added
+4 has been added
+7 has been added
+10 has been added
+8 has been added
+6 has been added
+----------------Intial tree is ---------------
+
+ 1 2 4 6 7 8 10
+Sum of the range from 1 to 4: 7
+
+
+case2
+Creating tree
+New tree created with 8
+4 has been added
+8 has been added
+7 has been added
+5 has been added
+1 has been added
+2 has been added
+3 has been added
+----------------Intial tree is ---------------
+ 1 2 3 4 5 7 8
+Sum of the range from 7 to 8: 15
+
+D:\CU School\Spring 2019\CSCI 2270\Midterm 2\real>
